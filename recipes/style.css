@@ -1,0 +1,19 @@
+body {
+    padding-left: 480px;
+    padding-right: 480px;
+    background-color: rgb(255, 247, 213);
+}
+
+h1 {
+    color: brown;
+    font-size: 48px;
+}
+
+h2 {
+    color: teal;
+}
+
+p,li {
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
